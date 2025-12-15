@@ -1,0 +1,5 @@
+{
+  "name": "Glassmorphic File Uploader",
+  "description": "A high-fidelity clone of a glassmorphic file upload UI with functional drag-and-drop and progress simulation.",
+  "requestFramePermissions": []
+}
